@@ -23,9 +23,8 @@
 
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=AmazonEC2&logoColor=orange"/>
 
-  ## 🎬 배포
-
   ## 📽 시연 영상
+  [시연영상 바로가기](https://youtu.be/l9mZEJ9ZwC0)
 
   ## 🧾 API 및 ERD 설계
     
