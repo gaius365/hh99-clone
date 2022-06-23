@@ -26,7 +26,7 @@
   ## 📽 시연 영상
   [시연영상 바로가기](https://youtu.be/l9mZEJ9ZwC0)
 
-  ## 🧾 팀 
+  ## 🧾 팀 노션
     
    https://www.notion.so/99_7-_-_7-fc117b49c8fb41189531a181fbf887a3#7f7c4a67b499470f9a71034f03725529
    
